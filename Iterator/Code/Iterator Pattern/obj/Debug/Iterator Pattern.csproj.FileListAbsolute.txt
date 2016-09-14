@@ -1,0 +1,9 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\bin\Debug\Iterator Pattern.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\bin\Debug\Iterator Pattern.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\bin\Debug\Iterator Pattern.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator_Pattern.Form1.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator_Pattern.Properties.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator Pattern.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator Pattern.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator Pattern.pdb
