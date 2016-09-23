@@ -1,2 +1,0 @@
-C:\Users\Mark\Documents\Visual Studio 2013\Projects\Design Patterns\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe.config
-C:\Users\Mark\Documents\GitHub\Design-Patterns\Observor\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe.config
